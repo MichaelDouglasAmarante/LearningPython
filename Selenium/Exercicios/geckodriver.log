@@ -1,0 +1,108 @@
+1612486255373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mdoug\\AppData\\Local\\Temp\\rust_mozprofileLuomQF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612486257944	Marionette	INFO	Listening on port 52448
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612486258052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612486258062	Marionette	ERROR	[18] No reply from Marionette:Register
+1612486409688	Marionette	INFO	Stopped listening on port 52448
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612486455071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mdoug\\AppData\\Local\\Temp\\rust_mozprofileyuto8l"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612486457573	Marionette	INFO	Listening on port 52685
+1612486457750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612486457759	Marionette	ERROR	[18] No reply from Marionette:Register
+1612486467636	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612486479162	Marionette	INFO	Stopped listening on port 52685
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612486625235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mdoug\\AppData\\Local\\Temp\\rust_mozprofilemwEEsl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612486627947	Marionette	INFO	Listening on port 52875
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612486628428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612486628438	Marionette	ERROR	[18] No reply from Marionette:Register
+1612486681696	Marionette	INFO	Stopped listening on port 52875
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612486743407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mdoug\\AppData\\Local\\Temp\\rust_mozprofileTGc1ME"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612486745891	Marionette	INFO	Listening on port 53057
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612486746077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612486746086	Marionette	ERROR	[18] No reply from Marionette:Register
+1612486770061	Marionette	INFO	Stopped listening on port 53057
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612486816098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mdoug\\AppData\\Local\\Temp\\rust_mozprofileggPAHV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612486818527	Marionette	INFO	Listening on port 53148
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612486818767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612486818781	Marionette	ERROR	[18] No reply from Marionette:Register
+1612486840153	Marionette	INFO	Stopped listening on port 53148
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612487019926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mdoug\\AppData\\Local\\Temp\\rust_mozprofile3wAo8k"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612487022629	Marionette	INFO	Listening on port 53535
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612487023139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612487023152	Marionette	ERROR	[18] No reply from Marionette:Register
+1612487075273	Marionette	INFO	Stopped listening on port 53535
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612487164028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mdoug\\AppData\\Local\\Temp\\rust_mozprofileMQ1SBf"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612487166455	Marionette	INFO	Listening on port 53799
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612487166698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612487166709	Marionette	ERROR	[18] No reply from Marionette:Register
+1612487221275	Marionette	INFO	Stopped listening on port 53799
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 789: AbortError: Could not dispatch task to background thread
+1612487230832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mdoug\\AppData\\Local\\Temp\\rust_mozprofile06pllJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612487233262	Marionette	INFO	Listening on port 53896
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612487233505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612487233516	Marionette	ERROR	[18] No reply from Marionette:Register
+1612487281690	Marionette	INFO	Stopped listening on port 53896
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612487395539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mdoug\\AppData\\Local\\Temp\\rust_mozprofileWbrzEY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612487398113	Marionette	INFO	Listening on port 54045
+1612487398252	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612487398268	Marionette	ERROR	[18] No reply from Marionette:Register
+1612487440683	Marionette	ERROR	[36] No reply from Marionette:Register
+1612487703922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\mdoug\\AppData\\Local\\Temp\\rust_mozprofileE3kpnA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612487706534	Marionette	INFO	Listening on port 54339
+1612487706615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612487706628	Marionette	ERROR	[18] No reply from Marionette:Register
